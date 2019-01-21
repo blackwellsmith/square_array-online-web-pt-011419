@@ -1,5 +1,6 @@
 def square_array(array)
-  array.each { |num| arrray << num ** 2 }
+  array.each do |num|
+    nu
     
    
  
