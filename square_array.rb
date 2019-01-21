@@ -5,6 +5,6 @@ def square_array(array)
    
  
 
-  
+end
   # your code here
 end
